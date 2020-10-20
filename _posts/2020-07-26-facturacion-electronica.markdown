@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Facturación electrońica"
-date: 2020-07-26 05:00:00 +0200
-published: 2020-07-26 05:00:00 +0200
+date: 2020-07-28 05:00:00 +0200
+published: 2020-07-28 05:00:00 +0200
 comments: true
 categories: development
 tags: [facturación, api, dian, electronica, facturacion-electronica]
@@ -39,6 +39,7 @@ En Sistemas Agapanto SAS hemos automatizado todo el proceso de implementación d
     
 Todo esto por un costo de $<strike>300.000</strike> $150.000 COP mensuales, si su empresa requiere caracteristicas especiales de infraestructura escribanos al correo de contacto.
 Ademas, si adquiere este servicio de infraestructura tendrá acceso a los demás módulos que hemos desarrollado para su empresa.
+
 ## Modulos administrativos
 
     - Activos Fijos  
@@ -48,8 +49,9 @@ Ademas, si adquiere este servicio de infraestructura tendrá acceso a los demás
     - Modulo Ventas
     - Modulo Inventarios
     
-Para empezar dirijase a la url <a href="https://tiendas.agapanto.com.co">https://tiendas.agapanto.com.co</a> y registrese como usuario ingresando un correo valido que debera revisar por el enlace de verificación; una ves este completado el registro verá en el menú el enlace para registrar su empresa, puede registrar mas de una;  necesitará a la mano el rut y la identificación de la persona natural o juridica.
+Para empezar dirijase a la url 
+[https://tiendas.agapanto.com.co](https://tiendas.agapanto.com.co) y registrese como usuario ingresando un correo valido que debera revisar por el enlace de verificación; una ves este completado el registro verá en el menú el enlace para registrar su empresa, puede registrar mas de una;  necesitará a la mano el rut y la identificación de la persona natural o juridica.
 
-### Advertencia
+### Para tener en cuenta
 
-Para firmar electrónicamente los documentos se requiere de la firma electrónica aprobada por la ONAC y tiene un costo de aproximadamente 300.000 COP anuales, dependiendo de la entidad en la que se adquiera, nosotros recomendamos entidades como https://web.certicamara.com/ o  https://andesscd.com.co/ y es un costo adicional que se debe tener en cuenta para facturar electrónicamente
+Para firmar electrónicamente los documentos se requiere de la firma electrónica aprobada por la ONAC y tiene un costo de aproximadamente 300.000 COP anuales, dependiendo de la entidad en la que se adquiera, nosotros recomendamos entidades como https://andesscd.com.co/ y es un costo adicional que se debe tener en cuenta para facturar electrónicamente, aunque igual recibirá un acompañamiento en todo el proceso de habilitación como facturador electrónico.
